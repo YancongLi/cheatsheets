@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-A collection of cheat sheets for Treehouse Courses
+A collection of cheat sheets for Treehouse Courses:
 
 
 ## Databases
